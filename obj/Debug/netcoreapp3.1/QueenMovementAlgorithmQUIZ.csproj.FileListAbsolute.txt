@@ -1,0 +1,12 @@
+C:\Users\eymen\source\repos\QueenMovementAlgorithemQUIZ\QueenMovementAlgorithemQUIZ\bin\Debug\netcoreapp3.1\QueenMovementAlgorithmQUIZ.exe
+C:\Users\eymen\source\repos\QueenMovementAlgorithemQUIZ\QueenMovementAlgorithemQUIZ\bin\Debug\netcoreapp3.1\QueenMovementAlgorithmQUIZ.deps.json
+C:\Users\eymen\source\repos\QueenMovementAlgorithemQUIZ\QueenMovementAlgorithemQUIZ\bin\Debug\netcoreapp3.1\QueenMovementAlgorithmQUIZ.runtimeconfig.json
+C:\Users\eymen\source\repos\QueenMovementAlgorithemQUIZ\QueenMovementAlgorithemQUIZ\bin\Debug\netcoreapp3.1\QueenMovementAlgorithmQUIZ.runtimeconfig.dev.json
+C:\Users\eymen\source\repos\QueenMovementAlgorithemQUIZ\QueenMovementAlgorithemQUIZ\bin\Debug\netcoreapp3.1\QueenMovementAlgorithmQUIZ.dll
+C:\Users\eymen\source\repos\QueenMovementAlgorithemQUIZ\QueenMovementAlgorithemQUIZ\bin\Debug\netcoreapp3.1\QueenMovementAlgorithmQUIZ.pdb
+C:\Users\eymen\source\repos\QueenMovementAlgorithemQUIZ\QueenMovementAlgorithemQUIZ\obj\Debug\netcoreapp3.1\QueenMovementAlgorithmQUIZ.AssemblyInfoInputs.cache
+C:\Users\eymen\source\repos\QueenMovementAlgorithemQUIZ\QueenMovementAlgorithemQUIZ\obj\Debug\netcoreapp3.1\QueenMovementAlgorithmQUIZ.AssemblyInfo.cs
+C:\Users\eymen\source\repos\QueenMovementAlgorithemQUIZ\QueenMovementAlgorithemQUIZ\obj\Debug\netcoreapp3.1\QueenMovementAlgorithmQUIZ.csproj.CoreCompileInputs.cache
+C:\Users\eymen\source\repos\QueenMovementAlgorithemQUIZ\QueenMovementAlgorithemQUIZ\obj\Debug\netcoreapp3.1\QueenMovementAlgorithmQUIZ.dll
+C:\Users\eymen\source\repos\QueenMovementAlgorithemQUIZ\QueenMovementAlgorithemQUIZ\obj\Debug\netcoreapp3.1\QueenMovementAlgorithmQUIZ.pdb
+C:\Users\eymen\source\repos\QueenMovementAlgorithemQUIZ\QueenMovementAlgorithemQUIZ\obj\Debug\netcoreapp3.1\QueenMovementAlgorithmQUIZ.genruntimeconfig.cache
